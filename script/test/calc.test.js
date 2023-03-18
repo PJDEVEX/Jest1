@@ -41,10 +41,6 @@ describe("Calculator", () => {
         test("should return 5 for 5 + 0", () => {
             expect(addition(5, 0)).toBe(5);
         })
-        
-        
-        
-        
 
     });
 
